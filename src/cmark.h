@@ -1,6 +1,7 @@
 #ifndef CMARK_H
 #define CMARK_H
 
+#include <stddef.h>
 #include <stdio.h>
 #include "cmark_export.h"
 #include "cmark_version.h"
